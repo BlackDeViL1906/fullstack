@@ -1,0 +1,118 @@
+.registration-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  opacity: 1;
+  transition: 2s;
+
+  /* width: 201vh; */
+  /* background-color: #d7d4d4; */
+  background-image: url(../images/regbg.jpg);
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* margin-left: 20%; */
+}
+
+.registration-form {
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  background-color: #fff;
+  opacity: 70%;
+  padding: 40px;
+  width: 60%;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+.main-form {
+  display: flex;
+}
+.contents-form {
+  margin-left: 8%;
+  width: 50%;
+}
+.logo-reg {
+  width: 50%;
+}
+.registration-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+.form-group-nm {
+  margin-bottom: 20px;
+  display: flex;
+
+  flex-direction: row;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+button {
+  width: 55%;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+}
+
+#reg-button {
+  margin-left: 11%;
+  border-radius: 5px;
+}
+
+#reg-button:hover {
+  background-color: #4e01b2;
+}
+/* #reg-button {
+  width: 55%;
+} */
+
+#firstName,
+#lastName,
+#email,
+#passw,
+#gender,
+#state,
+#city,
+#phoneNumber,
+#schoolName {
+  width: 85%;
+  height: 18%;
+  border: 1px solid rgb(192, 191, 191);
+}
+#email {
+  background-color: #ececec;
+}
+#gender {
+  padding: 1.6%;
+  border-radius: 4px;
+  border: 1px solid rgb(192, 191, 191);
+  background-color: #ececec;
+}
+#maillogo {
+  height: 40px;
+  width: 40px;
+  border: 1px solid rgb(192, 191, 191);
+}
+.logo-reg img {
+  margin-left: 0%;
+}
