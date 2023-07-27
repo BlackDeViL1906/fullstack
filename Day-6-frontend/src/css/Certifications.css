@@ -1,0 +1,15 @@
+.certif-head {
+  margin-left: 30%;
+  margin-top: 5%;
+}
+.certif-card:hover {
+  background-color: rgb(32, 186, 32);
+  color: white;
+  transform: translateY(-20px);
+  transition: 0.5s;
+}
+.download-icon {
+  font-size: 14px;
+  color: white;
+  margin-right: 2%;
+}

@@ -1,0 +1,16 @@
+.navcontainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+}
+.navb {
+  background-color: white;
+}
+.nav-contents {
+  margin-right: 10%;
+}
+.contents {
+  background-color: white;
+  min-height: 100vh;
+}

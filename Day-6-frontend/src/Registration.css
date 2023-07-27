@@ -1,0 +1,5 @@
+.custom-password-input .form-control {
+  box-shadow: none;
+  border-color: #ced4da;
+  border-right: none;
+}

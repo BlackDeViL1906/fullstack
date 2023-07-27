@@ -1,0 +1,27 @@
+.search-bar {
+  position: relative;
+  top: 0;
+  right: 0;
+  height: 40px;
+  font-size: 30px;
+}
+.filter-course {
+  width: 50%;
+}
+.search-bar-stucourses {
+  font-size: 50px;
+}
+.del-button {
+  font-size: 20px;
+  padding-bottom: 2%;
+  background-color: white;
+  border: none;
+  color: rgb(241, 39, 39);
+}
+.add-course-admin {
+  font-size: 30px;
+  margin-left: 60%;
+  width: 15%;
+  height: 30%;
+  font-size: 20px;
+}

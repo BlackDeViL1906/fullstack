@@ -1,0 +1,22 @@
+.message-card {
+  margin-top: 10%;
+}
+
+.message-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.notification-card {
+  margin-top: 4%;
+}
+
+.notification-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.notification-list li {
+  border-bottom: 1px solid #ddd;
+  padding: 8px 0;
+}

@@ -1,0 +1,18 @@
+.achiev-progress-bar {
+  color: red;
+  height: 5.5px;
+  border-radius: 10px;
+}
+.achieve-head {
+  margin-left: 34%;
+}
+.achiev-card {
+  box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.3);
+  border: black;
+}
+.achiev-card:hover {
+  background-color: rgb(25, 165, 25);
+  color: white;
+  transform: translatey(-20px);
+  transition: 0.5s;
+}

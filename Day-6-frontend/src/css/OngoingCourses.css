@@ -1,0 +1,5 @@
+.ong-course-card:hover {
+  transform: translateY(-20px);
+  transition: 0.5s;
+  scale: 1.04;
+}
